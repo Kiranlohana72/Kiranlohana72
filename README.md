@@ -22,7 +22,7 @@
 <a href="https://fb.com/kiran lohana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiran lohana" height="30" width="40" /></a>
 <a href="https://instagram.com/its_ya_girl_kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_ya_girl_kiran" height="30" width="40" /></a>
 <a href="https://www.behance.net/kiran lohana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kiran lohana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/learn with kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with kiran" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@Gurbanilearner target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with kiran" height="30" width="40" /></a>
 <a href="https://discord.gg/kiran_73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kiran_73" height="30" width="40" /></a>
 </p>
 
