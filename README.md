@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Dr kiRan(psYchlogist)</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="c:\Users\barkha\Desktop\download.jpeg">
